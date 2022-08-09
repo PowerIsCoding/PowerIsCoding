@@ -5,7 +5,7 @@
 
 ---
 
-I'm [Alex aka a6yo](https://twitter.com/abyo_fr), self-taught full Stack web developer and I'm now making educational content on the internet. I take great care in the experience and code quality of the things I build.
+I'm PowerIsCoding, self-taught full Stack web developer and I'm now making educational content on the internet. I take great care in the experience and code quality of the things I build.
 
 <img align="right" alt="GIF" src="./programmer.gif" width="400" height="245" />
 

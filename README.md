@@ -96,8 +96,13 @@ I was working on [my config](https://github.com/abyo/nvim-windows), our [discord
 
 <img src="https://activity-graph.herokuapp.com/graph?username=LOG-LEGENDX&theme=react-dark&bg_color=20232a" width="100%"/>
 
+
+
 <br>
 
 <div align="center">
    <a href="https://github.com/SkinnerRcs?tab=repositories">Show More</a>
 </div>
+
+![image](https://user-images.githubusercontent.com/110945891/183779843-69bd5c38-e95c-47d3-ad26-f4cd28432585.png)
+
